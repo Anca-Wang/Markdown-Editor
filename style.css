@@ -1,0 +1,35 @@
+body {
+    background-color: #f7f1e3;
+    font-family: 'Arimo', sans-serif; }
+  
+hr {
+border-color: #a9b8a9;
+margin-bottom: 10px; }
+
+.md-input {
+border: none;
+border-radius: 4px;
+color: white;
+font-family: 'Roboto Mono', monospace;
+font-size: 12px;
+padding: 10px;
+width: 100%;
+height: 400px;
+background-color: #8fa599; }
+@media (min-width: 992px) {
+    .md-input {
+    height: 600px; } }
+
+.well {
+padding: 10px;
+width: 100%;
+height: 400px;
+overflow: auto;
+border: none;
+background-color: #ddddce; }
+@media (min-width: 992px) {
+    .well {
+    height: 600px; } }
+
+.text-center {
+color: #2a4858; }
